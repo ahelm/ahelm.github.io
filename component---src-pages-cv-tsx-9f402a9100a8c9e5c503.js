@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{PjBF:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),c=t("9Dj+"),i=t("H8eV");n.default=function(){return o.a.createElement(c.a,null,o.a.createElement(i.a,{title:"CV"}),"Coming soon ...")}}}]);
+//# sourceMappingURL=component---src-pages-cv-tsx-9f402a9100a8c9e5c503.js.map
