@@ -5,3 +5,10 @@ title = "About"
 +++
 
 Hello, I am Anton. 
+
+```python
+def hello():
+    print("Hello, World!")
+    
+hello()
+```
