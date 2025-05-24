@@ -1,4 +1,4 @@
-baseURL = 'https://ahelm.github.io/'
+baseURL = 'https://antonhelm.me/'
 languageCode = 'en-us'
 title = 'Personal Page'
 theme = 'terminal'
